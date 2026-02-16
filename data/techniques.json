@@ -21,7 +21,11 @@
       "Place the tip of your tongue against the ridge behind your upper front teeth throughout."
     ],
     "timeNeeded": "2-3 minutes",
-    "bestFor": ["Falling asleep", "Anxiety relief", "Calming racing thoughts"]
+    "bestFor": [
+      "Falling asleep",
+      "Anxiety relief",
+      "Calming racing thoughts"
+    ]
   },
   {
     "id": "warm-bath-90-minutes-before-bed",
@@ -45,6 +49,1508 @@
       "Dim the bathroom lights to avoid bright light exposure."
     ],
     "timeNeeded": "15-30 minutes",
-    "bestFor": ["Falling asleep faster", "Muscle relaxation", "Evening wind-down"]
+    "bestFor": [
+      "Falling asleep faster",
+      "Muscle relaxation",
+      "Evening wind-down"
+    ]
+  },
+  {
+    "id": "box-breathing-technique",
+    "name": "Box Breathing",
+    "tagline": "A military-grade technique used by Navy SEALs to stay calm under pressure",
+    "description": "Box breathing, also known as square breathing, involves equal counts for inhaling, holding, exhaling, and holding again. This creates a \"box\" pattern that helps regulate the autonomic nervous system and reduces stress hormones.",
+    "category": "breathing",
+    "icon": "Wind",
+    "steps": [
+      "Sit upright with your feet flat on the floor and hands resting on your lap.",
+      "Exhale slowly through your mouth to empty your lungs completely.",
+      "Inhale slowly through your nose for 4 seconds.",
+      "Hold your breath for 4 seconds.",
+      "Exhale slowly through your mouth for 4 seconds.",
+      "Hold empty for 4 seconds, then repeat for 5-10 cycles."
+    ],
+    "scienceBehind": "Box breathing activates the parasympathetic nervous system while deactivating the sympathetic \"fight or flight\" response. Research shows it lowers cortisol levels and improves focus by increasing oxygen efficiency in the blood.",
+    "tips": [
+      "Focus on a visual box in your mind, tracing each side with each breath phase.",
+      "If 4 seconds feels too long, start with 3 seconds and gradually increase.",
+      "This technique works equally well for anxiety during the day or bedtime relaxation."
+    ],
+    "timeNeeded": "5 minutes",
+    "bestFor": [
+      "Anxiety relief",
+      "Calming racing thoughts",
+      "Stress relief"
+    ]
+  },
+  {
+    "id": "diaphragmatic-belly-breathing",
+    "name": "Diaphragmatic Belly Breathing",
+    "tagline": "Deep abdominal breathing that maximizes oxygen intake and triggers relaxation",
+    "description": "Also called belly or deep breathing, this technique focuses on engaging the diaphragm muscle rather than shallow chest breathing. It's the foundation of most relaxation practices and increases oxygen efficiency throughout the body.",
+    "category": "breathing",
+    "icon": "Waves",
+    "steps": [
+      "Lie on your back with knees bent or sit comfortably.",
+      "Place one hand on your chest and the other on your belly below the ribcage.",
+      "Inhale slowly through your nose, feeling your belly rise while your chest stays relatively still.",
+      "Exhale slowly through pursed lips, feeling your belly fall.",
+      "Focus on making the belly hand rise more than the chest hand.",
+      "Continue for 5-10 minutes with slow, natural breaths."
+    ],
+    "scienceBehind": "Diaphragmatic breathing stimulates the vagus nerve, which activates the parasympathetic nervous system and reduces heart rate. Studies show it can lower cortisol levels by up to 28% and improve sleep quality in insomnia patients.",
+    "tips": [
+      "If you're new to this, practice during the day first to build the habit.",
+      "Place a light book on your belly to see the rise and fall more clearly.",
+      "Aim for 6-10 breaths per minute for optimal relaxation effects."
+    ],
+    "timeNeeded": "5-10 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Muscle relaxation",
+      "Anxiety relief"
+    ]
+  },
+  {
+    "id": "alternate-nostril-breathing",
+    "name": "Alternate Nostril Breathing",
+    "tagline": "An ancient yogic practice that balances both sides of your brain for deep calm",
+    "description": "Known as Nadi Shodhana in Sanskrit, this technique involves breathing through one nostril at a time in a specific pattern. It's designed to balance the left and right hemispheres of the brain and calm the nervous system.",
+    "category": "breathing",
+    "icon": "Leaf",
+    "steps": [
+      "Sit comfortably with your spine straight and shoulders relaxed.",
+      "Use your right thumb to close your right nostril.",
+      "Inhale slowly and deeply through your left nostril for 4 counts.",
+      "Close your left nostril with your ring finger, release your thumb, and exhale through the right nostril for 4 counts.",
+      "Inhale through the right nostril for 4 counts.",
+      "Close the right nostril and exhale through the left. Repeat for 5-10 cycles."
+    ],
+    "scienceBehind": "Research shows alternate nostril breathing synchronizes the two hemispheres of the brain and activates the parasympathetic nervous system. Studies indicate it can reduce blood pressure and improve heart rate variability, both markers of better sleep readiness.",
+    "tips": [
+      "Keep your breath smooth and silent — if you hear it, you're breathing too hard.",
+      "Rest your left hand on your lap in a comfortable position.",
+      "If your nose is congested, practice gentle belly breathing instead."
+    ],
+    "timeNeeded": "5-7 minutes",
+    "bestFor": [
+      "Calming racing thoughts",
+      "Anxiety relief",
+      "Evening wind-down"
+    ]
+  },
+  {
+    "id": "two-to-one-breathing-ratio",
+    "name": "2:1 Breathing Ratio",
+    "tagline": "Doubling your exhale length to activate your body's natural relaxation response",
+    "description": "This simple yet powerful technique involves making your exhale twice as long as your inhale. The extended exhale activates the vagus nerve and signals safety to your nervous system, making it one of the most reliable pre-sleep practices.",
+    "category": "breathing",
+    "icon": "Wind",
+    "steps": [
+      "Lie down or sit comfortably and observe your natural breathing for a few cycles.",
+      "Begin inhaling through your nose for a count of 3 or 4 seconds.",
+      "Exhale slowly through your nose or mouth for 6 or 8 seconds (double the inhale).",
+      "Keep the breath smooth and controlled without straining.",
+      "Repeat for 8-12 cycles or until you feel deeply relaxed.",
+      "Let your breath return to normal if you feel lightheaded."
+    ],
+    "scienceBehind": "The prolonged exhale stimulates the vagus nerve, which runs from the brainstem to the abdomen and controls the parasympathetic nervous system. This triggers a cascade of calming physiological responses including decreased heart rate and lowered blood pressure.",
+    "tips": [
+      "Start with a 3:6 ratio and gradually work up to 4:8 or 5:10 as it becomes easier.",
+      "Make the exhale smooth and controlled, not forced or strained.",
+      "This is especially effective when you wake up in the middle of the night."
+    ],
+    "timeNeeded": "3-5 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Night waking",
+      "Muscle relaxation"
+    ]
+  },
+  {
+    "id": "coherent-breathing",
+    "name": "Coherent Breathing",
+    "tagline": "A perfect 5-second rhythm that synchronizes your heart, breath, and brain waves",
+    "description": "Coherent breathing involves breathing at a rate of 5 seconds in and 5 seconds out, which equals 6 breaths per minute. This specific rhythm maximizes heart rate variability and creates a state of physiological coherence throughout the body.",
+    "category": "breathing",
+    "icon": "Clock",
+    "steps": [
+      "Sit or lie in a comfortable position with your spine naturally aligned.",
+      "Close your eyes and relax your shoulders, jaw, and face.",
+      "Inhale gently through your nose for 5 seconds.",
+      "Exhale smoothly through your nose or mouth for 5 seconds.",
+      "Keep the breath gentle and effortless — no strain or forcing.",
+      "Continue for at least 10-20 minutes for maximum benefit."
+    ],
+    "scienceBehind": "Research shows that breathing at 6 breaths per minute (5 seconds in, 5 out) optimizes heart rate variability and synchronizes respiratory, cardiovascular, and autonomic nervous systems. This state of \"coherence\" has been shown to improve emotional regulation and sleep quality.",
+    "tips": [
+      "Use a timer or metronome app set to 6 breaths per minute if helpful.",
+      "This works best as a daily practice 20 minutes before bedtime.",
+      "Combine with gentle background music at 60 bpm for enhanced effects."
+    ],
+    "timeNeeded": "10-20 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Anxiety relief",
+      "Sleep quality"
+    ]
+  },
+  {
+    "id": "moon-breath-chandra-bhedana",
+    "name": "Moon Breath (Chandra Bhedana)",
+    "tagline": "Cool and calm your system by breathing exclusively through your left nostril",
+    "description": "Moon Breath is a yogic breathing practice where you breathe in through the left nostril only. In yoga philosophy, the left nostril is associated with the body's cooling, calming lunar energy, making it ideal for preparing for sleep.",
+    "category": "breathing",
+    "icon": "CloudMoon",
+    "steps": [
+      "Sit comfortably with your spine straight and close your eyes.",
+      "Use your right thumb to gently close your right nostril.",
+      "Inhale slowly and deeply through your left nostril for 4-6 counts.",
+      "Release your thumb and exhale through both nostrils or just the right.",
+      "Return to closing the right nostril and inhale again through the left.",
+      "Repeat for 10-15 cycles, focusing on smooth, cooling breaths."
+    ],
+    "scienceBehind": "While the lunar/solar nostril theory is traditional rather than scientific, research does show that left nostril breathing activates the right brain hemisphere associated with parasympathetic activity and relaxation. This can lower body temperature and heart rate, both conducive to sleep.",
+    "tips": [
+      "Imagine breathing in cool moonlight with each inhale through the left nostril.",
+      "This is especially helpful on hot nights or when feeling overheated.",
+      "If your left nostril is blocked, try lying on your right side to naturally open it."
+    ],
+    "timeNeeded": "5-8 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Stress relief",
+      "Evening wind-down"
+    ]
+  },
+  {
+    "id": "humming-bee-breath-bhramari",
+    "name": "Humming Bee Breath (Bhramari)",
+    "tagline": "Create soothing vibrations in your head that calm your mind instantly",
+    "description": "Bhramari pranayama involves making a humming sound like a bee during the exhale. The vibration and sound frequency create an immediate calming effect on the brain and nervous system, making racing thoughts dissolve quickly.",
+    "category": "breathing",
+    "icon": "Music",
+    "steps": [
+      "Sit comfortably with your spine straight and shoulders relaxed.",
+      "Close your eyes and take a deep breath in through your nose.",
+      "As you exhale, make a low humming sound like a bee — \"mmmmm.\"",
+      "Feel the vibration in your head, face, and throat.",
+      "Optional: gently close your ears with your thumbs to amplify the internal sound.",
+      "Repeat for 6-10 cycles, focusing on the soothing vibration."
+    ],
+    "scienceBehind": "The humming creates vibrations that stimulate the vagus nerve and increase nitric oxide production in the nasal passages, which improves oxygenation. Studies show Bhramari reduces heart rate, blood pressure, and anxiety scores significantly after just 5 minutes.",
+    "tips": [
+      "Keep the hum low and smooth — it should feel relaxing, not straining.",
+      "The sound also blocks out external noise and racing thoughts effectively.",
+      "This works particularly well if you have trouble quieting your mind at bedtime."
+    ],
+    "timeNeeded": "5 minutes",
+    "bestFor": [
+      "Calming racing thoughts",
+      "Anxiety relief",
+      "Falling asleep"
+    ]
+  },
+  {
+    "id": "three-part-yogic-breath",
+    "name": "Three-Part Yogic Breath",
+    "tagline": "Fill your lungs completely in three stages for maximum oxygenation and calm",
+    "description": "Also called Dirga Pranayama, this technique divides each inhale into three parts: filling the belly, then the ribcage, then the upper chest. This complete breath maximizes lung capacity and oxygen intake while promoting deep relaxation.",
+    "category": "breathing",
+    "icon": "Waves",
+    "steps": [
+      "Lie on your back or sit comfortably with your spine straight.",
+      "Begin by exhaling completely to empty your lungs.",
+      "Inhale into your belly first, feeling it expand.",
+      "Continue inhaling to fill your ribcage, feeling it widen.",
+      "Complete the inhale by filling your upper chest and collarbones.",
+      "Exhale slowly in reverse: upper chest, ribcage, then belly. Repeat for 8-10 cycles."
+    ],
+    "scienceBehind": "This complete breathing technique uses full lung capacity, improving oxygen-carbon dioxide exchange and activating the parasympathetic nervous system. Research shows deep breathing exercises increase melatonin production and improve sleep latency in people with insomnia.",
+    "tips": [
+      "Place your hands on your belly, ribs, and chest to feel each stage.",
+      "Don't force the breath — let it be natural and flowing between stages.",
+      "This is excellent to practice right before the 4-7-8 technique for deeper relaxation."
+    ],
+    "timeNeeded": "5-8 minutes",
+    "bestFor": [
+      "Sleep quality",
+      "Evening wind-down",
+      "Muscle relaxation"
+    ]
+  },
+  {
+    "id": "sighing-breath-technique",
+    "name": "Sighing Breath Technique",
+    "tagline": "Release tension instantly with deep sighs that reset your nervous system",
+    "description": "Physiological sighing involves taking two quick inhales through the nose followed by a long exhale through the mouth. This pattern rapidly reduces stress and anxiety by expelling excess CO2 and inflating collapsed alveoli in the lungs.",
+    "category": "breathing",
+    "icon": "Sparkles",
+    "steps": [
+      "Sit or lie comfortably and relax your shoulders.",
+      "Take a deep inhale through your nose.",
+      "At the top of the inhale, take a second shorter inhale through your nose (a \"sip\" of air).",
+      "Exhale slowly and fully through your mouth with an audible sigh.",
+      "Let your body fully relax with the exhale.",
+      "Repeat 3-5 times or until you feel noticeably calmer."
+    ],
+    "scienceBehind": "Stanford neuroscientist Dr. Andrew Huberman's research shows that physiological sighing is the fastest way to reduce arousal and calm down. The double inhale re-inflates alveoli, and the extended exhale activates the vagus nerve, lowering heart rate within seconds.",
+    "tips": [
+      "This is incredibly effective for acute stress or when you can't fall back asleep.",
+      "Make the exhale audible — the sound itself is part of the release.",
+      "Just 1-3 sighs can shift your state, but 5 provides maximum benefit."
+    ],
+    "timeNeeded": "1-2 minutes",
+    "bestFor": [
+      "Night waking",
+      "Stress relief",
+      "Anxiety relief"
+    ]
+  },
+  {
+    "id": "digital-sunset-routine",
+    "name": "Digital Sunset",
+    "tagline": "Turn off all screens 60 minutes before bed to let your brain produce melatonin naturally",
+    "description": "Digital sunset is the practice of powering down all electronic devices with screens at least one hour before your target bedtime. This allows your eyes to stop receiving blue light, which suppresses melatonin production and delays sleep onset.",
+    "category": "routine",
+    "icon": "Moon",
+    "steps": [
+      "Set a daily alarm for 60 minutes before your target bedtime as your \"digital sunset.\"",
+      "When the alarm goes off, power down or put away all phones, tablets, computers, and TVs.",
+      "If you must use a device, enable night mode or use blue light blocking glasses.",
+      "Replace screen time with analog activities: reading a physical book, journaling, stretching, or conversation.",
+      "Prepare a few go-to activities in advance so you're not tempted to default to screens.",
+      "Keep devices charging in another room to remove temptation."
+    ],
+    "scienceBehind": "Blue light from screens suppresses melatonin production by up to 50%, even at low brightness. Research shows that screen exposure within 2 hours of bedtime delays circadian rhythm by 1.5 hours and reduces REM sleep. Removing screens 60-90 minutes before bed allows natural melatonin rise.",
+    "tips": [
+      "Start with 30 minutes if 60 feels impossible, then gradually increase.",
+      "Tell family or roommates about your digital sunset so they can support it.",
+      "Use the extra time for other sleep-supporting routines like gratitude journaling or tea.",
+      "If you track sleep with a device, set it to airplane mode and use it only as an alarm."
+    ],
+    "timeNeeded": "60 minutes before bed",
+    "bestFor": [
+      "Falling asleep",
+      "Sleep quality",
+      "Evening wind-down"
+    ]
+  },
+  {
+    "id": "gratitude-journaling-before-bed",
+    "name": "Gratitude Journaling Before Bed",
+    "tagline": "End your day by writing 3 things you're grateful for to shift your mind toward peace",
+    "description": "Gratitude journaling involves writing down specific things you appreciated about your day right before bed. This simple practice shifts your focus away from stress and worries toward positive experiences, priming your mind for restful sleep.",
+    "category": "routine",
+    "icon": "Pen",
+    "steps": [
+      "Keep a dedicated journal and pen on your nightstand.",
+      "Set aside 5 minutes before lights out for this practice.",
+      "Write down 3 specific things you're grateful for from today.",
+      "Be specific: instead of \"my family,\" write \"the way my daughter laughed at dinner.\"",
+      "Include small things: a warm shower, a good cup of coffee, sunshine on your face.",
+      "Close the journal and let those positive thoughts carry you into sleep."
+    ],
+    "scienceBehind": "Research from UC Berkeley shows that gratitude journaling before bed increases sleep duration by 30 minutes and improves sleep quality. It works by reducing pre-sleep worry and rumination while increasing positive emotions, which activate the parasympathetic nervous system.",
+    "tips": [
+      "Don't repeat the same gratitudes — challenge yourself to find new ones daily.",
+      "If you had a hard day, you can write small wins or things that weren't worse.",
+      "This practice becomes more powerful with consistency — aim for 21 consecutive days.",
+      "You can also include one thing you're looking forward to tomorrow."
+    ],
+    "timeNeeded": "5 minutes",
+    "bestFor": [
+      "Calming racing thoughts",
+      "Evening wind-down",
+      "Stress relief"
+    ]
+  },
+  {
+    "id": "consistent-wake-time-routine",
+    "name": "Consistent Wake Time",
+    "tagline": "Wake up at the same time every day, even weekends, to lock in your circadian rhythm",
+    "description": "This routine involves setting a single wake time and sticking to it 7 days a week, regardless of when you fell asleep. It's the single most powerful habit for regulating your body clock and improving overall sleep quality over time.",
+    "category": "routine",
+    "icon": "Clock",
+    "steps": [
+      "Choose a wake time that allows 7-9 hours of sleep based on your bedtime needs.",
+      "Set a non-negotiable alarm for that time every single day, including weekends.",
+      "When the alarm goes off, get out of bed immediately — no snoozing.",
+      "Expose yourself to bright light within 15 minutes of waking (sunlight or bright indoor light).",
+      "If you had a bad night, resist the urge to sleep in — this weakens your rhythm.",
+      "After 2-3 weeks, your body will naturally start feeling sleepy at the right time."
+    ],
+    "scienceBehind": "Your circadian rhythm is primarily regulated by light exposure and consistent wake times, not bedtimes. Research shows that wake time consistency is the strongest predictor of sleep quality and mood stability. Sleeping in on weekends causes \"social jet lag\" that disrupts your entire week.",
+    "tips": [
+      "This is hard at first but gets dramatically easier after 2-3 weeks of consistency.",
+      "If you're exhausted, take a short 20-minute nap in the early afternoon instead of sleeping in.",
+      "Pair this with morning sunlight exposure within 30 minutes of waking for maximum effect.",
+      "Track your energy levels over 3 weeks — you'll see major improvements."
+    ],
+    "timeNeeded": "Daily commitment",
+    "bestFor": [
+      "Sleep quality",
+      "Jet lag",
+      "Morning freshness"
+    ]
+  },
+  {
+    "id": "pre-sleep-reading-ritual",
+    "name": "Pre-Sleep Reading Ritual",
+    "tagline": "Read a physical book for 20 minutes in dim light to ease your mind into sleep mode",
+    "description": "This ritual involves reading a physical book (not on a screen) in soft, warm lighting for 15-30 minutes before turning off the lights. Reading shifts your mind away from daily concerns and provides a consistent cue that sleep is approaching.",
+    "category": "routine",
+    "icon": "BookOpen",
+    "steps": [
+      "Choose a physical book that's interesting but not too stimulating — avoid thrillers or work-related topics.",
+      "Create a cozy reading spot with a dim, warm-toned reading lamp (not bright overhead lights).",
+      "Set a timer for 20-30 minutes so you don't lose track of time.",
+      "Read at a relaxed pace, letting your mind absorb the story or information.",
+      "When the timer goes off, mark your page and turn off the light immediately.",
+      "Let the last thoughts from the book carry you into sleep."
+    ],
+    "scienceBehind": "A University of Sussex study found that reading for just 6 minutes can reduce stress levels by 68%, more than listening to music or drinking tea. Reading before bed reduces cortisol, slows heart rate, and creates a cognitive buffer between daytime stress and sleep. The consistent ritual also serves as a sleep cue over time.",
+    "tips": [
+      "Keep 3-4 books on your nightstand so you always have options.",
+      "Avoid reading news, work emails, or anything that might trigger stress.",
+      "Fiction often works better than non-fiction for sleep since it requires less analytical thinking.",
+      "If you have trouble winding down, try poetry or short essays instead of novels."
+    ],
+    "timeNeeded": "20-30 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Calming racing thoughts",
+      "Falling asleep"
+    ]
+  },
+  {
+    "id": "calming-tea-ritual",
+    "name": "Calming Tea Ritual",
+    "tagline": "Sip a warm cup of herbal tea 60 minutes before bed to signal sleep is coming",
+    "description": "This soothing ritual involves preparing and slowly drinking a cup of caffeine-free herbal tea with sleep-promoting properties. The warm liquid, mindful preparation, and herbal compounds work together to relax your body and mind.",
+    "category": "routine",
+    "icon": "Coffee",
+    "steps": [
+      "Choose a caffeine-free herbal tea like chamomile, valerian root, passionflower, or lavender.",
+      "Set a timer for 60-90 minutes before your target bedtime to begin the ritual.",
+      "Boil water and prepare your tea mindfully — notice the aroma and warmth.",
+      "Sit in a comfortable spot and sip slowly for 10-15 minutes.",
+      "Focus on the warmth, taste, and calming sensations as you drink.",
+      "Finish at least 45 minutes before bed to avoid nighttime bathroom trips."
+    ],
+    "scienceBehind": "Chamomile contains apigenin, an antioxidant that binds to benzodiazepine receptors in the brain, promoting sleepiness. Warm liquids raise core body temperature temporarily; the subsequent cooling mimics the natural temperature drop that occurs before sleep, signaling to your body it's time to rest.",
+    "tips": [
+      "Use loose-leaf tea in a ritual pot or cup for enhanced mindfulness.",
+      "Avoid adding sugar, which can cause a blood sugar spike and crash.",
+      "Combine with other rituals like reading or journaling for a full wind-down hour.",
+      "Try different herbal blends to find what you enjoy most — consistency matters more than the specific herb."
+    ],
+    "timeNeeded": "15 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Anxiety relief",
+      "Falling asleep"
+    ]
+  },
+  {
+    "id": "gentle-face-hand-washing-ritual",
+    "name": "Gentle Face & Hand Washing Ritual",
+    "tagline": "Wash your face and hands with cool water to symbolically wash away the day",
+    "description": "This simple but powerful ritual involves mindfully washing your face and hands with cool water as the final act before getting into bed. The cool water, sensory focus, and symbolic cleansing help create a clear boundary between wakefulness and sleep.",
+    "category": "routine",
+    "icon": "Droplets",
+    "steps": [
+      "After brushing your teeth, turn on cool (not cold) water at the sink.",
+      "Cup your hands and splash your face 3-5 times, feeling the coolness and freshness.",
+      "Gently massage your face, temples, and behind your ears with wet hands.",
+      "Wash your hands thoroughly, noticing the sensation of water on your skin.",
+      "Pat your face and hands dry with a soft towel.",
+      "As you dry off, imagine washing away stress, worry, and the busyness of the day."
+    ],
+    "scienceBehind": "Cool water on the face activates the mammalian dive reflex, which slows heart rate and promotes calmness. The temperature drop also signals to the brain that it's nighttime. The ritual itself serves as a consistent sleep cue, and the mindful sensory focus interrupts rumination.",
+    "tips": [
+      "Use unscented or lightly lavender-scented soap for a calming effect.",
+      "Make this the absolute last thing you do before getting into bed for maximum association.",
+      "If you wear makeup, do your full cleansing routine earlier — this is a quick symbolic wash.",
+      "Combine with a brief look in the mirror and a kind thought toward yourself."
+    ],
+    "timeNeeded": "3-5 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Falling asleep",
+      "Stress relief"
+    ]
+  },
+  {
+    "id": "preparing-tomorrows-essentials",
+    "name": "Preparing Tomorrow's Essentials",
+    "tagline": "Set out your clothes and make your to-do list tonight to free your mind from tomorrow",
+    "description": "This practical routine involves spending 10 minutes before bed preparing for the next day: laying out clothes, packing bags, and writing tomorrow's top 3 priorities. This mental offloading reduces pre-sleep anxiety and racing thoughts.",
+    "category": "routine",
+    "icon": "Lamp",
+    "steps": [
+      "About 30-60 minutes before bed, take 10 minutes to prepare for tomorrow.",
+      "Choose your outfit and lay it out where you'll see it in the morning.",
+      "Pack your work bag, gym bag, or any items you'll need to take with you.",
+      "Write down your top 3 priorities for tomorrow on a notepad or planner.",
+      "Add any tasks that are on your mind to your to-do list so you can forget them.",
+      "Review your calendar for tomorrow so there are no surprises."
+    ],
+    "scienceBehind": "Research shows that writing down tasks before bed reduces cognitive load and worry, improving sleep onset time. A study in the Journal of Experimental Psychology found that making a specific to-do list before bed helped people fall asleep 9 minutes faster than those who journaled about completed tasks.",
+    "tips": [
+      "Keep this process to 10 minutes max — don't let it become a source of stress.",
+      "Use a physical notepad rather than your phone to avoid screen time.",
+      "Include small things that worry you at night, like \"remember to email John\" or \"buy milk.\"",
+      "Combine with gratitude journaling: prepare for tomorrow, then reflect on today."
+    ],
+    "timeNeeded": "10 minutes",
+    "bestFor": [
+      "Calming racing thoughts",
+      "Evening wind-down",
+      "Anxiety relief"
+    ]
+  },
+  {
+    "id": "wind-down-music-playlist",
+    "name": "Wind-Down Music Playlist",
+    "tagline": "Play the same calming playlist every night to train your brain that sleep is near",
+    "description": "This routine involves creating a specific 30-60 minute playlist of slow, instrumental, calming music and playing it at the same time each night as part of your wind-down. The consistent audio cue becomes a powerful sleep signal over time.",
+    "category": "routine",
+    "icon": "Music",
+    "steps": [
+      "Create a playlist of 30-60 minutes of calming instrumental music (under 60 bpm).",
+      "Choose music without lyrics, sudden changes, or stimulating beats — think ambient, classical, or nature sounds.",
+      "Start the playlist at the same time every night, about 60 minutes before lights out.",
+      "Play it at low volume (around 30-40 decibels) in the background during your wind-down activities.",
+      "Let the playlist become the soundtrack to your other routines: tea, reading, journaling.",
+      "When the music ends, that's your cue to get into bed and turn off the lights."
+    ],
+    "scienceBehind": "Music at 60 bpm or slower synchronizes with resting heart rate and activates the parasympathetic nervous system. Research shows that listening to calming music before bed improves sleep quality by 35% and reduces the time to fall asleep. Consistent audio cues also strengthen circadian rhythm through classical conditioning.",
+    "tips": [
+      "Use a speaker with a timer or sleep timer function rather than earbuds.",
+      "Try genres like ambient, solo piano, classical guitar, or binaural beats at 432 Hz.",
+      "Don't shuffle — hearing the same songs in order strengthens the sleep association.",
+      "If you share a space, use quiet music or agree on a shared wind-down playlist."
+    ],
+    "timeNeeded": "30-60 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Anxiety relief",
+      "Sleep quality"
+    ]
+  },
+  {
+    "id": "cool-bedroom-temperature",
+    "name": "Cool Bedroom Temperature (65-68°F)",
+    "tagline": "Lower your room temperature to match your body's natural sleep state",
+    "description": "Your core body temperature naturally drops when you fall asleep. Keeping your bedroom cool (between 65-68°F or 18-20°C) helps facilitate this natural temperature decline, making it easier to fall asleep and stay asleep throughout the night.",
+    "category": "environment",
+    "icon": "Thermometer",
+    "steps": [
+      "Set your thermostat to 65-68°F (18-20°C) about an hour before bedtime.",
+      "Use a fan or AC unit if you don't have central climate control.",
+      "Test different temperatures within this range to find your personal sweet spot.",
+      "Keep lightweight, breathable bedding that won't trap heat.",
+      "Wear minimal, breathable sleepwear (or sleep naked).",
+      "Check your room temperature with a thermometer to ensure accuracy."
+    ],
+    "scienceBehind": "Research from the National Sleep Foundation shows that the ideal bedroom temperature for sleep is around 65-68°F. Core body temperature drops by 1-2°F during sleep onset, and a cool room facilitates this process by promoting heat dissipation through the skin.",
+    "tips": [
+      "If you share a bed, consider dual-zone bedding or separate blankets to accommodate different temperature preferences.",
+      "Open a window for natural cooling if outdoor temperature permits.",
+      "A cool room with warm extremities (socks or a hot water bottle at your feet) can be ideal for some people."
+    ],
+    "timeNeeded": "5 minutes setup",
+    "bestFor": [
+      "Falling asleep",
+      "Sleep quality",
+      "Night waking"
+    ]
+  },
+  {
+    "id": "complete-darkness-blackout-curtains",
+    "name": "Complete Darkness with Blackout Curtains",
+    "tagline": "Block all light sources to maximize melatonin production",
+    "description": "Even small amounts of light can suppress melatonin production and disrupt your circadian rhythm. Creating a completely dark sleeping environment helps your body maintain optimal melatonin levels throughout the night, leading to deeper, more restorative sleep.",
+    "category": "environment",
+    "icon": "Moon",
+    "steps": [
+      "Install blackout curtains or blinds on all bedroom windows.",
+      "Cover or remove electronic devices with LED lights (or use blackout tape).",
+      "Turn your alarm clock away from view or switch to a dim red display.",
+      "Use a sleep mask as a backup if complete darkness isn't achievable.",
+      "Check for light leaks around door frames and seal them if needed.",
+      "Remove night lights unless absolutely necessary for safety."
+    ],
+    "scienceBehind": "Studies published in the Journal of Clinical Endocrinology & Metabolism show that light exposure during sleep can suppress melatonin by up to 50% and delay its production. Even low-level light (3-5 lux) can impact circadian rhythm regulation and sleep architecture.",
+    "tips": [
+      "Red or amber night lights disrupt sleep less than white or blue lights if you need some visibility.",
+      "Blackout curtains also help with temperature regulation and noise reduction.",
+      "Test your room's darkness by holding your hand in front of your face — you shouldn't be able to see it."
+    ],
+    "timeNeeded": "10 minutes",
+    "bestFor": [
+      "Sleep quality",
+      "Morning freshness",
+      "Falling asleep"
+    ]
+  },
+  {
+    "id": "white-noise-machine",
+    "name": "White Noise Machine",
+    "tagline": "Mask disruptive sounds with consistent ambient noise",
+    "description": "White or pink noise creates a consistent sound environment that masks sudden noises like traffic, neighbors, or household sounds. This steady audio backdrop prevents your brain from being startled awake by unexpected sounds and can improve sleep continuity.",
+    "category": "environment",
+    "icon": "Waves",
+    "steps": [
+      "Place a white noise machine or speaker 6-8 feet from your bed.",
+      "Start with white noise, then try pink or brown noise to find your preference.",
+      "Set the volume to a comfortable level — loud enough to mask disruptions but not jarring.",
+      "Turn it on 10-15 minutes before getting into bed to establish the soundscape.",
+      "Use a timer if you prefer silence later in the night, or run it continuously.",
+      "Consider a portable white noise machine for travel consistency."
+    ],
+    "scienceBehind": "Research in Sleep Medicine shows that white noise can reduce sleep onset latency and improve sleep continuity by masking disruptive environmental sounds. Pink noise specifically has been shown to enhance deep sleep and memory consolidation in some studies.",
+    "tips": [
+      "Nature sounds (rain, ocean waves) work well for some people but may be too variable for others.",
+      "Pink noise has more low-frequency content and sounds softer than white noise — many find it more pleasant.",
+      "Smartphone apps work but may cause disruptions from notifications — use airplane mode."
+    ],
+    "timeNeeded": "2 minutes",
+    "bestFor": [
+      "Night waking",
+      "Falling asleep",
+      "Sleep quality"
+    ]
+  },
+  {
+    "id": "weighted-blanket-deep-pressure",
+    "name": "Weighted Blanket for Deep Pressure",
+    "tagline": "Use gentle pressure to activate your body's calming response",
+    "description": "Weighted blankets provide deep pressure stimulation that can reduce cortisol levels and increase serotonin and melatonin production. The gentle, distributed weight creates a sensation similar to being hugged, which naturally calms the nervous system and promotes relaxation.",
+    "category": "environment",
+    "icon": "Bed",
+    "steps": [
+      "Choose a blanket that's approximately 10% of your body weight (adults: typically 15-25 lbs).",
+      "Place the weighted blanket on top of your regular bedding.",
+      "Allow 2-3 nights to adjust to the sensation if it feels unfamiliar at first.",
+      "Ensure the blanket covers most of your body but doesn't hang over the edges excessively.",
+      "Use breathable weighted blankets with glass beads or natural fills to avoid overheating.",
+      "Remove it if you feel too restricted — it should be comforting, not confining."
+    ],
+    "scienceBehind": "Studies in the Journal of Sleep Medicine & Disorders found that weighted blankets increased sleep time and reduced movement in adults with insomnia. The deep pressure touch stimulates the parasympathetic nervous system, triggering the release of serotonin and reducing cortisol levels.",
+    "tips": [
+      "Not recommended for children under 2, people with respiratory issues, or those who can't remove it independently.",
+      "Look for blankets with duvet covers for easy washing.",
+      "Some people prefer weighted blankets only on their legs or torso rather than full coverage."
+    ],
+    "timeNeeded": "Instant",
+    "bestFor": [
+      "Anxiety relief",
+      "Falling asleep",
+      "Calming racing thoughts"
+    ]
+  },
+  {
+    "id": "lavender-aromatherapy",
+    "name": "Lavender Aromatherapy",
+    "tagline": "Use calming scent to trigger relaxation and drowsiness",
+    "description": "Lavender essential oil has been scientifically shown to reduce anxiety and improve sleep quality. The scent activates the limbic system, the emotional center of your brain, promoting relaxation and helping you transition more easily from wakefulness to sleep.",
+    "category": "environment",
+    "icon": "Leaf",
+    "steps": [
+      "Use a diffuser with 3-5 drops of pure lavender essential oil 30 minutes before bed.",
+      "Alternatively, place 1-2 drops on a tissue and tuck it inside your pillowcase.",
+      "Or spray a lavender linen mist on your pillow and sheets (avoid direct skin contact if sensitive).",
+      "Keep the scent subtle — overpowering fragrance can be stimulating rather than calming.",
+      "Use high-quality, pure lavender oil (Lavandula angustifolia) for best results.",
+      "Turn off the diffuser after falling asleep or use one with an auto-shutoff timer."
+    ],
+    "scienceBehind": "Research published in Evidence-Based Complementary and Alternative Medicine shows that lavender aromatherapy increases slow-wave sleep and decreases rapid-eye-movement (REM) sleep. Lavender contains linalool and linalyl acetate, compounds that interact with GABA receptors to produce calming effects.",
+    "tips": [
+      "Avoid synthetic lavender fragrances — they don't have the same therapeutic compounds.",
+      "If you don't like lavender, try chamomile, bergamot, or sandalwood essential oils.",
+      "Create a consistent bedtime scent ritual so your brain associates the smell with sleep."
+    ],
+    "timeNeeded": "5 minutes",
+    "bestFor": [
+      "Anxiety relief",
+      "Evening wind-down",
+      "Falling asleep"
+    ]
+  },
+  {
+    "id": "remove-visible-clocks",
+    "name": "Remove Visible Clocks",
+    "tagline": "Eliminate time anxiety by hiding clock faces from view",
+    "description": "Clock-watching during the night creates performance anxiety about sleep and triggers stress responses that make it harder to fall back asleep. Removing visible clocks from your bedroom eliminates this source of anxiety and helps you stay relaxed if you wake during the night.",
+    "category": "environment",
+    "icon": "Eye",
+    "steps": [
+      "Turn your alarm clock to face away from the bed or cover the display.",
+      "Put your phone face-down or in a drawer (ideally outside the bedroom).",
+      "Remove wall clocks or any other time displays from your line of sight.",
+      "Use an alarm that you trust so you don't worry about oversleeping.",
+      "If you wake at night, resist the urge to check the time.",
+      "Focus on relaxation rather than calculating hours of sleep remaining."
+    ],
+    "scienceBehind": "Sleep researchers have found that clock-monitoring during sleep attempts increases physiological arousal and performance anxiety, creating a vicious cycle that prolongs wakefulness. The anxiety about not sleeping activates the sympathetic nervous system, making sleep even more difficult.",
+    "tips": [
+      "If you must check the time, use a watch with a cover button so you can feel it without seeing it.",
+      "Trust that your body will get the rest it needs even if you wake during the night.",
+      "Remember that worrying about sleep loss causes more impairment than the actual sleep loss itself."
+    ],
+    "timeNeeded": "1 minute",
+    "bestFor": [
+      "Anxiety relief",
+      "Night waking",
+      "Calming racing thoughts"
+    ]
+  },
+  {
+    "id": "bedroom-sleep-only-space",
+    "name": "Bedroom as Sleep-Only Space",
+    "tagline": "Train your brain to associate your bed with sleep, not wakefulness",
+    "description": "Using your bedroom exclusively for sleep (and intimacy) creates a strong mental association between the space and restfulness. This classical conditioning helps your brain automatically shift into sleep mode when you enter the room, making it easier to fall asleep quickly.",
+    "category": "environment",
+    "icon": "Bed",
+    "steps": [
+      "Remove TVs, computers, and work materials from your bedroom.",
+      "Avoid using your bed for reading, eating, or scrolling on devices.",
+      "Create a dedicated workspace elsewhere if you work from home.",
+      "If you can't fall asleep within 20 minutes, leave the room and return only when drowsy.",
+      "Keep the bedroom lighting dim and relaxing, never bright and energizing.",
+      "Make your bed every morning to reinforce that it's a special, restful space."
+    ],
+    "scienceBehind": "Sleep specialists use stimulus control therapy based on classical conditioning principles. Research in Sleep Medicine Reviews shows that strengthening the bed-sleep association reduces sleep onset latency and improves overall sleep quality by eliminating competing associations with wakefulness.",
+    "tips": [
+      "If space is limited, use room dividers or curtains to separate sleep and activity areas.",
+      "The '20-minute rule' prevents you from developing negative associations with lying awake in bed.",
+      "Keep a small reading light and book in another room for times you can't sleep."
+    ],
+    "timeNeeded": "Ongoing practice",
+    "bestFor": [
+      "Falling asleep",
+      "Sleep quality",
+      "Calming racing thoughts"
+    ]
+  },
+  {
+    "id": "blue-light-filtering-evening",
+    "name": "Blue Light Filtering After Sunset",
+    "tagline": "Reduce blue light exposure to preserve natural melatonin production",
+    "description": "Blue light wavelengths suppress melatonin production more than any other type of light. Filtering or reducing blue light exposure in the evening allows your body to naturally ramp up melatonin production, helping you feel sleepy at the appropriate time.",
+    "category": "environment",
+    "icon": "Lamp",
+    "steps": [
+      "Enable night mode or blue light filters on all devices (phones, tablets, computers) after sunset.",
+      "Wear blue-light blocking glasses 2-3 hours before bedtime if using screens.",
+      "Replace bright white LED bulbs with warm-toned (2700K or lower) bulbs in evening spaces.",
+      "Dim household lights progressively as bedtime approaches.",
+      "Use apps like f.lux for automatic screen color temperature adjustment.",
+      "Avoid bright overhead lights in the evening — use lamps and indirect lighting instead."
+    ],
+    "scienceBehind": "Research published in the Journal of Applied Physiology shows that blue light exposure (460-480nm wavelengths) suppresses melatonin for approximately twice as long as green light and shifts circadian rhythms by twice the magnitude. Evening blue light exposure can delay sleep onset by 1-3 hours.",
+    "tips": [
+      "Blue light filters should make screens appear orange or amber-tinted for maximum effectiveness.",
+      "Reading physical books under warm light is better than e-readers with backlit screens.",
+      "Red or amber light has minimal impact on melatonin and can be used for nighttime visibility."
+    ],
+    "timeNeeded": "5 minutes setup",
+    "bestFor": [
+      "Falling asleep",
+      "Evening wind-down",
+      "Sleep quality"
+    ]
+  },
+  {
+    "id": "chamomile-tea-bedtime",
+    "name": "Chamomile Tea Before Bed",
+    "tagline": "Harness chamomile's natural sedative compounds for easier sleep",
+    "description": "Chamomile contains apigenin, an antioxidant that binds to specific receptors in your brain that promote sleepiness and reduce anxiety. Drinking chamomile tea 30-45 minutes before bed creates a relaxing ritual while delivering natural compounds that support better sleep.",
+    "category": "diet",
+    "icon": "Coffee",
+    "steps": [
+      "Boil water and let it cool slightly to around 200°F (93°C).",
+      "Steep 1-2 chamomile tea bags or 1 tablespoon of dried flowers for 5-10 minutes.",
+      "Drink 30-45 minutes before your target bedtime.",
+      "Add a small amount of honey if desired (honey may provide additional sleep benefits).",
+      "Avoid adding caffeine-containing ingredients like black or green tea.",
+      "Make it part of your wind-down routine for consistent sleep cues."
+    ],
+    "scienceBehind": "Studies in BMC Complementary Medicine and Therapies found that chamomile extract improved sleep quality in elderly patients. The active compound apigenin binds to benzodiazepine receptors in the central nervous system, producing mild sedative and anxiolytic effects without the side effects of pharmaceutical sleep aids.",
+    "tips": [
+      "Use high-quality loose-leaf chamomile for more potent effects than bagged tea.",
+      "If you wake to use the bathroom, reduce liquid intake or drink it earlier (60 minutes before bed).",
+      "Look for German chamomile (Matricaria recutita) rather than Roman chamomile for sleep benefits."
+    ],
+    "timeNeeded": "10 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Anxiety relief",
+      "Falling asleep"
+    ]
+  },
+  {
+    "id": "magnesium-rich-evening-snack",
+    "name": "Magnesium-Rich Evening Snack",
+    "tagline": "Eat magnesium-rich foods to relax muscles and calm the nervous system",
+    "description": "Magnesium plays a crucial role in regulating neurotransmitters and activating the parasympathetic nervous system. Many people are deficient in magnesium, and consuming magnesium-rich foods in the evening can promote muscle relaxation, reduce anxiety, and improve sleep quality.",
+    "category": "diet",
+    "icon": "Apple",
+    "steps": [
+      "Choose magnesium-rich foods like almonds, pumpkin seeds, spinach, or dark chocolate.",
+      "Eat a small portion (1/4 cup nuts/seeds or 1-2 oz dark chocolate) 1-2 hours before bed.",
+      "Pair with a complex carbohydrate like whole grain crackers for sustained blood sugar.",
+      "Avoid large portions that might cause digestive discomfort.",
+      "Consider a magnesium glycinate supplement (200-400mg) if dietary intake is insufficient.",
+      "Stay consistent for 2-4 weeks to see the full sleep benefits."
+    ],
+    "scienceBehind": "Research in the Journal of Research in Medical Sciences shows that magnesium supplementation improved subjective measures of insomnia including sleep time, sleep efficiency, and melatonin concentration. Magnesium regulates GABA receptors and helps maintain healthy circadian rhythms by supporting melatonin production.",
+    "tips": [
+      "Almonds contain both magnesium and melatonin, making them an ideal sleep snack.",
+      "Dark chocolate (70%+ cacao) has magnesium but also some caffeine — eat earlier if sensitive.",
+      "Magnesium glycinate is better for sleep than magnesium citrate (which can have laxative effects)."
+    ],
+    "timeNeeded": "5 minutes",
+    "bestFor": [
+      "Muscle relaxation",
+      "Anxiety relief",
+      "Sleep quality"
+    ]
+  },
+  {
+    "id": "tart-cherry-juice-evening",
+    "name": "Tart Cherry Juice",
+    "tagline": "Drink natural melatonin-rich juice to boost sleep hormones",
+    "description": "Tart cherries (Montmorency cherries) are one of the few natural food sources of melatonin. Drinking tart cherry juice in the evening provides your body with additional melatonin and antioxidants that can improve sleep duration and quality.",
+    "category": "diet",
+    "icon": "Droplets",
+    "steps": [
+      "Drink 8 oz (1 cup) of pure tart cherry juice 30-60 minutes before bedtime.",
+      "Choose 100% tart cherry juice without added sugars or sweeteners.",
+      "Or drink 8 oz in the morning and 8 oz in the evening for maximum benefit.",
+      "Look for Montmorency cherry juice specifically, as it's most studied for sleep.",
+      "If the taste is too tart, dilute with water (but don't add sugar).",
+      "Give it at least one week of consistent use to evaluate effectiveness."
+    ],
+    "scienceBehind": "A study published in the Journal of Medicinal Food found that participants who drank tart cherry juice twice daily increased sleep time by 84 minutes and improved sleep efficiency. Tart cherries contain high levels of phytochemicals including melatonin and tryptophan, which are precursors to serotonin.",
+    "tips": [
+      "Buy concentrate and dilute it to reduce cost and customize strength.",
+      "Tart cherry juice also has anti-inflammatory properties that may help with post-exercise recovery.",
+      "If you're watching sugar intake, note that 8 oz contains about 25-30g of natural sugars."
+    ],
+    "timeNeeded": "2 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Sleep quality",
+      "Morning freshness"
+    ]
+  },
+  {
+    "id": "no-caffeine-after-2pm",
+    "name": "No Caffeine After 2 PM",
+    "tagline": "Eliminate afternoon caffeine to prevent evening sleep disruption",
+    "description": "Caffeine has a half-life of 5-6 hours, meaning half of the caffeine from your afternoon coffee is still in your system at bedtime. Cutting off caffeine consumption by early afternoon ensures your body has sufficient time to metabolize it before sleep, preventing both sleep onset difficulties and reduced sleep quality.",
+    "category": "diet",
+    "icon": "Coffee",
+    "steps": [
+      "Set a strict 2 PM cutoff for all caffeinated beverages (coffee, tea, soda, energy drinks).",
+      "Check labels on medications, chocolate, and desserts for hidden caffeine content.",
+      "Switch to decaf, herbal tea, or water after your cutoff time.",
+      "If you experience afternoon fatigue, take a 10-15 minute walk or do light stretching instead.",
+      "Gradually reduce caffeine intake if you're currently consuming late-day caffeine.",
+      "Track your sleep quality for 1-2 weeks to see if earlier cutoffs (noon or 1 PM) work better."
+    ],
+    "scienceBehind": "Research in the Journal of Clinical Sleep Medicine found that caffeine consumed even 6 hours before bedtime significantly disrupted sleep. The study showed that 400mg of caffeine taken 6 hours before bed reduced total sleep time by more than 1 hour, even when participants didn't perceive sleep disturbance.",
+    "tips": [
+      "Caffeine metabolism varies by individual — some people need to cut off even earlier (noon).",
+      "Green tea contains less caffeine than coffee but still enough to disrupt sleep if consumed late.",
+      "Remember that some pain relievers (Excedrin, Midol) contain significant caffeine."
+    ],
+    "timeNeeded": "Ongoing habit",
+    "bestFor": [
+      "Falling asleep",
+      "Sleep quality",
+      "Night waking"
+    ]
+  },
+  {
+    "id": "light-evening-meal-timing",
+    "name": "Light Evening Meal Timing",
+    "tagline": "Eat dinner 3-4 hours before bed to optimize digestion and sleep",
+    "description": "Eating large meals close to bedtime forces your body to focus on digestion when it should be preparing for sleep. Finishing dinner 3-4 hours before bed and keeping it relatively light ensures your digestive system isn't actively working while you're trying to sleep, reducing discomfort and sleep disruptions.",
+    "category": "diet",
+    "icon": "Clock",
+    "steps": [
+      "Schedule dinner to finish at least 3 hours before your target bedtime.",
+      "Keep evening meals moderate in size (not your largest meal of the day).",
+      "Avoid heavy, fatty, or spicy foods that take longer to digest.",
+      "Include lean proteins and complex carbohydrates for sustained energy without digestive stress.",
+      "If you're hungry before bed, have a small sleep-promoting snack (see other techniques).",
+      "Stay upright for at least 2 hours after eating to aid digestion and prevent reflux."
+    ],
+    "scienceBehind": "Studies show that late eating disrupts circadian rhythms and increases core body temperature, both of which interfere with sleep initiation. Research in the British Journal of Nutrition found that eating within 3 hours of bedtime was associated with increased risk of sleep disturbances and reduced sleep quality.",
+    "tips": [
+      "If you exercise in the evening, eat dinner after your workout but still maintain the 3-hour buffer.",
+      "Large meals trigger insulin spikes and digestive activity that can interfere with melatonin production.",
+      "Acid reflux sufferers should wait even longer (4+ hours) before lying down."
+    ],
+    "timeNeeded": "Ongoing scheduling",
+    "bestFor": [
+      "Sleep quality",
+      "Falling asleep",
+      "Night waking"
+    ]
+  },
+  {
+    "id": "warm-milk-honey",
+    "name": "Warm Milk with Honey",
+    "tagline": "Use a traditional remedy backed by sleep-promoting nutrients",
+    "description": "Warm milk contains tryptophan, calcium, and other compounds that support sleep, while honey provides glucose that helps tryptophan enter the brain more easily. This combination, along with the comforting warmth and nostalgic ritual, can promote relaxation and sleepiness.",
+    "category": "diet",
+    "icon": "Droplets",
+    "steps": [
+      "Warm 8 oz of milk (dairy or fortified soy milk) on the stove or microwave until comfortably warm, not hot.",
+      "Stir in 1 teaspoon of raw honey until dissolved.",
+      "Drink slowly 30-45 minutes before bedtime as part of your wind-down routine.",
+      "Sit in a comfortable spot and practice mindful sipping to enhance relaxation.",
+      "Use organic, grass-fed milk if possible for higher nutrient content.",
+      "Make it a consistent ritual to signal to your brain that sleep time is approaching."
+    ],
+    "scienceBehind": "Milk contains tryptophan, an amino acid precursor to serotonin and melatonin. Calcium in milk helps the brain use tryptophan to manufacture melatonin. The small amount of glucose from honey facilitates tryptophan transport across the blood-brain barrier by triggering insulin release, which clears competing amino acids.",
+    "tips": [
+      "Add a pinch of cinnamon or nutmeg for additional flavor and potential sleep benefits.",
+      "Lactose-intolerant? Use lactose-free milk or fortified soy milk (which also contains tryptophan).",
+      "The psychological comfort and ritual may be as important as the nutritional content."
+    ],
+    "timeNeeded": "5 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Falling asleep",
+      "Anxiety relief"
+    ]
+  },
+  {
+    "id": "kiwi-fruit-before-bed",
+    "name": "Kiwi Fruit Before Bed",
+    "tagline": "Eat nutrient-dense kiwis to improve sleep onset and duration",
+    "description": "Kiwis are rich in serotonin, antioxidants, and folate — nutrients that have been specifically linked to improved sleep in research studies. Eating 1-2 kiwis an hour before bed may help you fall asleep faster and sleep more soundly throughout the night.",
+    "category": "diet",
+    "icon": "Apple",
+    "steps": [
+      "Eat 1-2 medium-sized kiwis (gold or green variety) 1 hour before bedtime.",
+      "Wash and eat with skin on (if tolerable) for extra fiber and nutrients.",
+      "Or cut in half and scoop out the flesh with a spoon.",
+      "Make it a consistent nightly habit for best results.",
+      "Combine with a small handful of nuts for added magnesium and protein.",
+      "Continue for at least 4 weeks to evaluate effectiveness."
+    ],
+    "scienceBehind": "A study in the Asia Pacific Journal of Clinical Nutrition found that consuming 2 kiwis one hour before bedtime for 4 weeks significantly improved sleep onset, duration, and efficiency in adults with self-reported sleep disturbances. Kiwis' high serotonin and antioxidant content (vitamins C and E) may contribute to these effects.",
+    "tips": [
+      "Gold kiwis are sweeter and less tart if you find green kiwis too sour.",
+      "The skin is edible and contains prebiotics that support gut health (linked to better sleep).",
+      "Kiwis are also high in vitamin C and support immune function."
+    ],
+    "timeNeeded": "5 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Sleep quality",
+      "Morning freshness"
+    ]
+  },
+  {
+    "id": "avoid-alcohol-before-sleep",
+    "name": "Avoid Alcohol 3-4 Hours Before Sleep",
+    "tagline": "Skip nightcaps to prevent fragmented, poor-quality sleep",
+    "description": "While alcohol may help you fall asleep initially, it severely disrupts sleep architecture, particularly REM sleep, and causes frequent awakenings in the second half of the night. Avoiding alcohol in the 3-4 hours before bed (or eliminating it entirely) dramatically improves sleep quality and next-day functioning.",
+    "category": "diet",
+    "icon": "Heart",
+    "steps": [
+      "Stop drinking alcohol at least 3-4 hours before your planned bedtime.",
+      "If you drink in the evening, limit yourself to 1-2 drinks and finish early.",
+      "Alternate alcoholic drinks with water to reduce total consumption.",
+      "Track your sleep quality on nights with and without alcohol to see the difference.",
+      "Replace evening alcohol rituals with other wind-down activities (tea, reading, bath).",
+      "Consider eliminating alcohol entirely if sleep quality is a serious concern."
+    ],
+    "scienceBehind": "Research published in Alcoholism: Clinical and Experimental Research shows that alcohol increases adenosine (which promotes sleepiness) but subsides quickly, causing sleep disruption. Alcohol also suppresses REM sleep in the first half of the night and causes REM rebound (excessive REM activity) in the second half, leading to vivid dreams and awakenings.",
+    "tips": [
+      "Alcohol is metabolized at roughly one standard drink per hour — plan accordingly.",
+      "Even small amounts can impair sleep architecture, though effects are dose-dependent.",
+      "Alcohol worsens sleep apnea and snoring by relaxing throat muscles."
+    ],
+    "timeNeeded": "Ongoing habit",
+    "bestFor": [
+      "Sleep quality",
+      "Night waking",
+      "Morning freshness"
+    ]
+  },
+  {
+    "id": "turkey-tryptophan-dinner",
+    "name": "Turkey/Tryptophan-Rich Dinner",
+    "tagline": "Include tryptophan-rich proteins to boost sleep-promoting hormones",
+    "description": "Turkey, chicken, and other poultry are rich in tryptophan, the amino acid building block for serotonin and melatonin. Including tryptophan-rich proteins in your dinner (eaten 3-4 hours before bed) provides your body with the raw materials needed to produce sleep-regulating neurotransmitters.",
+    "category": "diet",
+    "icon": "Apple",
+    "steps": [
+      "Include 3-4 oz of turkey, chicken, or other tryptophan-rich protein in your dinner.",
+      "Pair with complex carbohydrates (brown rice, quinoa, sweet potato) to enhance tryptophan absorption.",
+      "Other tryptophan sources: eggs, salmon, tofu, seeds, nuts, and dairy.",
+      "Eat dinner 3-4 hours before bedtime for optimal digestion and nutrient timing.",
+      "Avoid very large portions that require extended digestion.",
+      "Make this a regular dinner habit rather than an occasional practice."
+    ],
+    "scienceBehind": "Tryptophan is an essential amino acid that the body converts to 5-HTP, then to serotonin, and finally to melatonin. Consuming tryptophan with carbohydrates triggers insulin release, which helps clear competing amino acids and allows tryptophan to cross the blood-brain barrier more efficiently. However, the sleep benefits are cumulative and work best as part of a consistent dietary pattern.",
+    "tips": [
+      "The 'Thanksgiving turkey makes you sleepy' effect is largely myth — it's more about meal size and carbs.",
+      "Pumpkin seeds and sesame seeds have some of the highest tryptophan content per ounce.",
+      "Combine tryptophan-rich foods with vitamin B6 (bananas, chickpeas) which helps convert it to serotonin."
+    ],
+    "timeNeeded": "Ongoing habit",
+    "bestFor": [
+      "Sleep quality",
+      "Falling asleep",
+      "Evening wind-down"
+    ]
+  },
+  {
+    "id": "banana-almond-butter-snack",
+    "name": "Banana with Almond Butter Snack",
+    "tagline": "Combine natural melatonin, magnesium, and healthy fats for sleep support",
+    "description": "Bananas contain natural melatonin, serotonin, magnesium, and vitamin B6 — all of which support sleep. Paired with almond butter, which provides magnesium, healthy fats, and protein, this creates a balanced sleep-promoting snack that stabilizes blood sugar throughout the night.",
+    "category": "diet",
+    "icon": "Apple",
+    "steps": [
+      "Slice half a banana and spread with 1 tablespoon of unsweetened almond butter.",
+      "Eat 30-60 minutes before bedtime as a light snack.",
+      "Choose ripe bananas (with brown spots) for higher melatonin content.",
+      "Use natural almond butter without added sugars or oils.",
+      "Keep the portion small to avoid digestive discomfort.",
+      "Make it a consistent pre-bed routine for best results."
+    ],
+    "scienceBehind": "Research shows that bananas contain naturally occurring melatonin and are a good source of magnesium and potassium, which promote muscle relaxation. The vitamin B6 in bananas aids in converting tryptophan to serotonin. Almonds provide additional magnesium and protein that helps prevent blood sugar crashes during the night.",
+    "tips": [
+      "If you're sensitive to histamine, very ripe bananas may not be ideal (histamine increases with ripeness).",
+      "Can't do almond butter? Try cashew butter, which also has magnesium and sleep-supporting fats.",
+      "Add a sprinkle of cinnamon for blood sugar regulation and extra flavor."
+    ],
+    "timeNeeded": "5 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Night waking",
+      "Muscle relaxation"
+    ]
+  },
+  {
+    "id": "progressive-muscle-relaxation",
+    "name": "Progressive Muscle Relaxation (PMR)",
+    "tagline": "Systematically tense and release muscle groups to melt away physical tension",
+    "description": "Progressive Muscle Relaxation was developed by physician Edmund Jacobson in the 1920s. This technique involves deliberately tensing specific muscle groups for 5-10 seconds, then releasing the tension while focusing on the sensation of relaxation. By working through the body systematically, you learn to recognize and release physical tension that may be keeping you awake.",
+    "category": "movement",
+    "icon": "Activity",
+    "steps": [
+      "Lie comfortably on your back with arms at your sides.",
+      "Starting with your feet, curl your toes tightly for 5 seconds, then release completely for 10 seconds.",
+      "Move up to your calves, then thighs, tensing each muscle group firmly before releasing.",
+      "Continue through buttocks, stomach, chest, hands, arms, shoulders, neck, and face.",
+      "After tensing your face muscles, take three deep breaths and scan your body for any remaining tension.",
+      "If you find tight spots, repeat the tense-release cycle for those areas."
+    ],
+    "scienceBehind": "PMR works by activating the relaxation response through muscle fatigue and the contrast between tension and release. Studies show it reduces cortisol levels and increases parasympathetic nervous system activity, making it particularly effective for stress-related insomnia.",
+    "tips": [
+      "Never tense so hard it hurts — firm tension is enough to feel the contrast.",
+      "Focus on the sensation of muscles becoming heavy and warm as they relax.",
+      "If you fall asleep before finishing, that's success! No need to complete every muscle group.",
+      "Pair with slow breathing for enhanced relaxation effects."
+    ],
+    "timeNeeded": "10-15 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Muscle relaxation",
+      "Stress relief",
+      "Anxiety relief"
+    ]
+  },
+  {
+    "id": "legs-up-the-wall",
+    "name": "Legs Up the Wall Pose (Viparita Karani)",
+    "tagline": "A restorative inversion that calms the nervous system and relieves tired legs",
+    "description": "This gentle yoga inversion involves lying on your back with your legs extended up against a wall. Known in yoga as Viparita Karani, this pose reverses blood flow, reduces swelling in the legs, and triggers the relaxation response. It's particularly beneficial for people who stand or sit all day.",
+    "category": "movement",
+    "icon": "Heart",
+    "steps": [
+      "Sit sideways next to a wall with your hip touching it.",
+      "Lie back while swinging your legs up the wall, forming an L-shape with your body.",
+      "Scoot your buttocks as close to the wall as comfortable (doesn't need to touch).",
+      "Rest your arms out to the sides or on your belly, palms facing up.",
+      "Close your eyes and breathe naturally for 5-10 minutes.",
+      "To exit, bend your knees, roll to one side, and pause before sitting up slowly."
+    ],
+    "scienceBehind": "The mild inversion encourages venous return to the heart, reducing pressure on the cardiovascular system. This signals the vagus nerve to activate the parasympathetic nervous system, lowering heart rate and promoting calm. Research shows inversions can reduce sympathetic nervous system activity within minutes.",
+    "tips": [
+      "Place a folded blanket or pillow under your lower back for extra comfort.",
+      "If your hamstrings are tight, move your hips farther from the wall.",
+      "Set a gentle timer so you can fully relax without checking the clock.",
+      "Practice 1-2 hours before bed for best sleep-promoting effects."
+    ],
+    "timeNeeded": "5-10 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Stress relief",
+      "Anxiety relief",
+      "Sleep quality"
+    ]
+  },
+  {
+    "id": "bedtime-yoga-sequence",
+    "name": "Gentle Bedtime Yoga Sequence",
+    "tagline": "A soothing flow of stretches designed to release tension and prepare your body for sleep",
+    "description": "This gentle yoga sequence combines restorative poses that target common areas of tension while promoting relaxation. Unlike vigorous yoga, this practice focuses on long holds, deep breathing, and releasing rather than strengthening. The poses are specifically chosen to calm the nervous system rather than energize the body.",
+    "category": "movement",
+    "icon": "Sparkles",
+    "steps": [
+      "Begin in Child's Pose for 1-2 minutes, breathing deeply into your back.",
+      "Move to Cat-Cow stretches (5-8 rounds) to release spinal tension gently.",
+      "Transition to Supine Spinal Twist on each side, holding for 1-2 minutes per side.",
+      "Move into Happy Baby pose, gently rocking side to side for 1 minute.",
+      "Finish in Reclined Butterfly pose with hands on belly, breathing for 2-3 minutes.",
+      "End in Corpse Pose (Savasana) for final relaxation before moving to bed."
+    ],
+    "scienceBehind": "Gentle yoga activates the parasympathetic nervous system through slow movements and deep breathing. Research published in the Journal of Ayurveda and Integrative Medicine found that bedtime yoga significantly improved sleep quality and reduced the time needed to fall asleep in people with chronic insomnia.",
+    "tips": [
+      "Dim the lights and avoid screens during your practice.",
+      "Use props like pillows or blankets to make poses more comfortable.",
+      "Focus on how poses feel rather than how they look — relaxation is the goal.",
+      "Practice in pajamas or comfortable clothes to transition seamlessly to bed."
+    ],
+    "timeNeeded": "10-15 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Muscle relaxation",
+      "Stress relief",
+      "Falling asleep"
+    ]
+  },
+  {
+    "id": "sleep-self-massage",
+    "name": "Sleep-Promoting Self-Massage",
+    "tagline": "Targeted massage of key pressure points to release tension and trigger drowsiness",
+    "description": "Self-massage before bed helps release physical tension while providing a meditative focal point. By targeting specific areas that hold stress — temples, neck, hands, and feet — you can activate pressure points known to promote relaxation. This technique combines the benefits of touch therapy with mindful attention to the body.",
+    "category": "movement",
+    "icon": "Waves",
+    "steps": [
+      "Sit comfortably and rub your hands together until warm.",
+      "Massage your temples in small circles for 30 seconds, applying gentle pressure.",
+      "Move to your neck, using your fingertips to knead the muscles at the base of your skull.",
+      "Press the webbing between your thumb and index finger (LI4 point) for 30 seconds on each hand.",
+      "Finish by massaging the soles of your feet, focusing on the arch and ball of each foot.",
+      "End with long, slow strokes down your arms and legs, always moving toward your heart."
+    ],
+    "scienceBehind": "Massage triggers the release of serotonin and dopamine while reducing cortisol levels. The LI4 pressure point is recognized in acupressure for promoting relaxation. Studies show that even brief self-massage can reduce heart rate variability and promote parasympathetic nervous system activation.",
+    "tips": [
+      "Use a small amount of lavender or chamomile oil for enhanced relaxation effects.",
+      "Warm your hands between each area to maintain comfort.",
+      "Apply firm but never painful pressure — it should feel soothing.",
+      "Combine with deep breathing, exhaling as you apply pressure."
+    ],
+    "timeNeeded": "5-10 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Muscle relaxation",
+      "Evening wind-down",
+      "Stress relief"
+    ]
+  },
+  {
+    "id": "full-body-scan-relaxation",
+    "name": "Full Body Scan Relaxation",
+    "tagline": "A movement-based awareness practice that systematically releases tension from head to toe",
+    "description": "This body scan technique combines physical awareness with subtle movements to identify and release tension. Unlike purely mental body scans, this version incorporates gentle micro-movements and intentional relaxation of each body part. It helps you develop awareness of where you hold tension and teaches you to consciously let it go.",
+    "category": "movement",
+    "icon": "Wind",
+    "steps": [
+      "Lie on your back in bed with arms slightly away from your body, palms up.",
+      "Starting at your toes, wiggle them slightly, then consciously relax them completely.",
+      "Move up through feet, ankles, calves, knees, and thighs — flex briefly, then release.",
+      "Continue through hips, abdomen, chest, allowing your breathing to deepen naturally.",
+      "Roll your shoulders back, then let them melt into the mattress.",
+      "Finish with your face: scrunch it tightly, then release, letting your jaw hang slightly open."
+    ],
+    "scienceBehind": "The brief contraction before relaxation helps you identify tension you may not consciously notice. This technique leverages proprioceptive awareness and the autogenic training principle where imagining warmth and heaviness triggers actual physiological relaxation. Research shows body scanning reduces arousal and increases delta wave activity associated with deep sleep.",
+    "tips": [
+      "If you notice persistent tension anywhere, return to that area and repeat the flex-release cycle.",
+      "Imagine each body part becoming heavier and sinking deeper into the mattress.",
+      "There's no need to rush — linger on any area that feels particularly tense.",
+      "If intrusive thoughts arise, gently return focus to the current body part."
+    ],
+    "timeNeeded": "10-15 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Muscle relaxation",
+      "Anxiety relief",
+      "Calming racing thoughts"
+    ]
+  },
+  {
+    "id": "childs-pose-meditation",
+    "name": "Extended Child's Pose Before Bed",
+    "tagline": "A deeply restorative resting pose that calms the mind and gently stretches the back",
+    "description": "Child's Pose (Balasana) is one of the most calming yoga positions, creating a gentle forward fold that compresses the belly and slows the breath. Holding this pose for an extended period before bed combines the physical benefits of a mild stretch with the psychological comfort of a protective, curled position. It's particularly effective for releasing lower back tension accumulated during the day.",
+    "category": "movement",
+    "icon": "Star",
+    "steps": [
+      "Kneel on your bed or a soft surface with big toes touching and knees apart.",
+      "Sit back on your heels and fold forward, extending your arms in front of you or alongside your body.",
+      "Rest your forehead on the mattress, pillow, or stacked hands for support.",
+      "Close your eyes and breathe deeply into your back, feeling it expand with each inhale.",
+      "Stay for 3-5 minutes, allowing your body to become heavier with each breath.",
+      "To exit, walk your hands back toward you and slowly roll up to sitting."
+    ],
+    "scienceBehind": "The gentle compression of the abdomen in Child's Pose stimulates the vagus nerve, which controls the parasympathetic nervous system. The forward fold position also mildly restricts breathing, naturally lengthening exhales and triggering the relaxation response. This pose reduces blood pressure and heart rate within minutes.",
+    "tips": [
+      "If your forehead doesn't reach the surface comfortably, stack pillows or folded blankets.",
+      "For tight hips, place a pillow between your buttocks and heels.",
+      "Focus on breathing into your lower back, imagining space between each vertebra.",
+      "Practice right in bed so you can transition directly to sleep position."
+    ],
+    "timeNeeded": "3-5 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Stress relief",
+      "Muscle relaxation",
+      "Calming racing thoughts"
+    ]
+  },
+  {
+    "id": "gentle-bedtime-stretching",
+    "name": "Gentle Bedtime Stretching Routine",
+    "tagline": "Simple stretches that release common tension areas and signal your body it's time to rest",
+    "description": "This stretching routine targets the neck, shoulders, hips, and lower back — areas where most people accumulate tension. Unlike morning stretches that energize, these gentle movements focus on releasing and softening. The routine can be done in bed or on the floor and requires no special flexibility or equipment.",
+    "category": "movement",
+    "icon": "Flame",
+    "steps": [
+      "Lie on your back and hug both knees to your chest for 30 seconds, gently rocking side to side.",
+      "Release legs and do ankle circles (10 in each direction per foot).",
+      "Extend one leg, pull the other knee across your body for a spinal twist, hold 1 minute per side.",
+      "Sit up and do gentle neck rolls (5 in each direction), moving very slowly.",
+      "Interlace fingers behind your head and gently let your chin drop to your chest, feeling the neck stretch.",
+      "Finish with shoulder rolls (10 backward) and shake out your hands and arms gently."
+    ],
+    "scienceBehind": "Gentle stretching before bed increases blood flow to muscles, helping them relax and recover from daily tension. The slow movements activate proprioceptors that signal safety to the nervous system. Research indicates that regular bedtime stretching improves sleep quality and reduces nighttime awakenings in adults with insomnia.",
+    "tips": [
+      "Never force or bounce in stretches — use gentle, sustained pressure only.",
+      "Breathe deeply throughout, exhaling as you deepen into each stretch.",
+      "If any stretch causes pain (not just mild discomfort), ease off immediately.",
+      "Consistency matters more than intensity — gentle daily stretching beats occasional deep stretching."
+    ],
+    "timeNeeded": "5-8 minutes",
+    "bestFor": [
+      "Evening wind-down",
+      "Muscle relaxation",
+      "Falling asleep",
+      "Night waking"
+    ]
+  },
+  {
+    "id": "toe-tensing-technique",
+    "name": "Toe Tensing and Wave Relaxation",
+    "tagline": "A simple foot-focused technique that creates a wave of relaxation through your entire body",
+    "description": "This minimalist relaxation technique involves curling your toes tightly while lying in bed, then releasing the tension in a wave that travels up through your body. It's particularly useful when you're already in bed and don't want to move much, yet need to release residual tension. The focused attention on your extremities helps quiet mental chatter.",
+    "category": "movement",
+    "icon": "Waves",
+    "steps": [
+      "Lie comfortably on your back with legs slightly apart.",
+      "Curl all ten toes downward as tightly as comfortable for 5 seconds.",
+      "Release suddenly and imagine the tension flowing out through your feet like water draining.",
+      "Next, point your toes upward (flexing feet) for 5 seconds, then release.",
+      "Notice the wave of relaxation traveling up through ankles, calves, knees, and thighs.",
+      "Repeat the curl-release cycle 5-8 times, letting the relaxation wave extend higher each time."
+    ],
+    "scienceBehind": "Starting relaxation at the extremities leverages the body's natural circulatory patterns. Tensing and releasing muscles triggers the Golgi tendon reflex, which causes involuntary deep muscle relaxation. This peripheral focus also engages the brain's sensorimotor cortex in a way that can interrupt rumination and anxiety loops.",
+    "tips": [
+      "If you get foot cramps, reduce the intensity of the curl and increase the release time.",
+      "Visualize the tension as a color draining out through your feet with each release.",
+      "Coordinate releases with exhales for enhanced relaxation effects.",
+      "This technique works well when combined with other methods like breathing exercises."
+    ],
+    "timeNeeded": "3-5 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Muscle relaxation",
+      "Night waking",
+      "Calming racing thoughts"
+    ]
+  },
+  {
+    "id": "guided-body-scan-meditation",
+    "name": "Sleep-Focused Body Scan Meditation",
+    "tagline": "A mindful journey through your body that cultivates deep awareness and releases tension",
+    "description": "This meditation involves systematically directing your attention through every part of your body while maintaining a curious, non-judgmental awareness. Unlike movement-based body scans, this is purely observational — you simply notice sensations without trying to change them. The practice builds interoceptive awareness while naturally reducing physiological arousal.",
+    "category": "mindfulness",
+    "icon": "Brain",
+    "steps": [
+      "Lie in your sleep position and close your eyes, taking three deep breaths.",
+      "Bring attention to your left foot, noticing temperature, pressure, any tingling or numbness.",
+      "Slowly move awareness up through left leg, hip, then repeat on the right side.",
+      "Continue through torso, noticing the rhythm of breath in your belly and chest.",
+      "Scan through arms, hands, fingers, then up through neck, face, and crown of head.",
+      "If your mind wanders, gently note 'thinking' and return attention to the body."
+    ],
+    "scienceBehind": "Brain imaging studies show that body scan meditation decreases activity in the default mode network (responsible for mind-wandering) while increasing activity in the insula (linked to interoceptive awareness). Research from Harvard Medical School found that regular body scan practice increases gray matter density in brain regions associated with stress regulation and emotional control.",
+    "tips": [
+      "There's no 'correct' sensation to find — simply notice what's there without judgment.",
+      "If you fall asleep during the practice, that's a sign it's working.",
+      "Spend 15-30 seconds on each major body region, longer on areas that feel tense.",
+      "Use guided body scan recordings when starting out to maintain focus."
+    ],
+    "timeNeeded": "15-20 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Anxiety relief",
+      "Calming racing thoughts",
+      "Sleep quality"
+    ]
+  },
+  {
+    "id": "counting-backwards-by-threes",
+    "name": "Counting Backwards from 300 by 3s",
+    "tagline": "A mentally engaging task that occupies your mind and crowds out racing thoughts",
+    "description": "This cognitive technique involves counting backwards from 300 in increments of three (300, 297, 294, 291...). The task is engaging enough to prevent rumination but boring enough to promote sleep. It occupies your working memory, making it difficult for anxiety-provoking thoughts to intrude, while the mental effort gradually fatigues the mind.",
+    "category": "mindfulness",
+    "icon": "Brain",
+    "steps": [
+      "Get comfortable in your sleep position and close your eyes.",
+      "Take three deep breaths to settle yourself.",
+      "Begin counting backwards from 300, subtracting 3 each time: '300... 297... 294...'",
+      "Visualize each number as you say it mentally, seeing it written out.",
+      "If you lose track or make a mistake, simply start over from 300.",
+      "Continue until you fall asleep or feel very drowsy, then let the counting fade."
+    ],
+    "scienceBehind": "This technique leverages cognitive load to interrupt the brain's default mode network, which is responsible for rumination and worry. The working memory required for backward counting prevents the hippocampus from engaging in emotional processing. Studies on cognitive distraction techniques show they reduce sleep onset latency by disrupting pre-sleep cognitive arousal.",
+    "tips": [
+      "If counting by 3s is too easy, try counting by 7s or starting from a higher number.",
+      "If it's too difficult and causes frustration, count by 2s instead.",
+      "Don't worry about accuracy — the mental effort is what matters, not getting it right.",
+      "Combine with slow, rhythmic breathing for enhanced effects."
+    ],
+    "timeNeeded": "5-15 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Calming racing thoughts",
+      "Anxiety relief",
+      "Night waking"
+    ]
+  },
+  {
+    "id": "peaceful-place-visualization",
+    "name": "Peaceful Place Visualization",
+    "tagline": "Create a detailed mental sanctuary that engages all your senses and calms your mind",
+    "description": "This guided imagery technique involves creating a richly detailed mental scene of a place where you feel completely safe and relaxed. By engaging all five senses in the visualization, you occupy your mind with peaceful imagery rather than stressful thoughts. The key is specificity — the more vivid the details, the more effectively the visualization absorbs your attention.",
+    "category": "mindfulness",
+    "icon": "Eye",
+    "steps": [
+      "Choose a real or imaginary place where you feel completely at peace (beach, forest, mountain, garden).",
+      "Close your eyes and picture yourself there, noting specific visual details (colors, light, movement).",
+      "Add sounds: waves, wind through trees, distant birds, or complete silence.",
+      "Include tactile sensations: temperature, breeze on skin, texture beneath your feet or hands.",
+      "Add scents (ocean air, pine trees, flowers) and any relevant tastes.",
+      "Spend several minutes exploring your scene, returning to it if your mind wanders."
+    ],
+    "scienceBehind": "Visualization activates the same neural networks as actual sensory experiences, effectively tricking the brain into a relaxation response. fMRI studies show that imagining peaceful scenes decreases amygdala activity (the brain's fear center) while increasing activity in regions associated with reward and positive emotion. This technique reduces cortisol levels and heart rate variability.",
+    "tips": [
+      "Use the same peaceful place each night to create a mental 'sleep trigger'.",
+      "Add a simple narrative: imagine walking through your place or settling into a comfortable spot.",
+      "If you've actually visited the location, recall specific memories to enhance detail.",
+      "Record yourself describing the scene and play it back as a personalized guided meditation."
+    ],
+    "timeNeeded": "10-15 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Anxiety relief",
+      "Calming racing thoughts",
+      "Stress relief"
+    ]
+  },
+  {
+    "id": "gratitude-reflection-practice",
+    "name": "Bedtime Gratitude Reflection",
+    "tagline": "A gentle practice of acknowledging three good things that shifts your mind toward contentment",
+    "description": "This simple mindfulness practice involves mentally reviewing your day and identifying three specific things you're grateful for. Unlike general gratitude lists, this technique requires recalling specific moments and savoring the positive feelings associated with them. The practice redirects attention from worries about the future to appreciation of the present and recent past.",
+    "category": "mindfulness",
+    "icon": "Heart",
+    "steps": [
+      "Lie in your sleep position and take a few deep, settling breaths.",
+      "Recall the first thing from your day you're grateful for, replaying the moment in detail.",
+      "Notice the positive feeling that arises and stay with it for 30-60 seconds.",
+      "Move to the second thing, again replaying the specific moment and savoring the feeling.",
+      "Identify the third thing, spending time with the associated positive emotions.",
+      "Let your mind rest in the warm feeling of appreciation as you drift toward sleep."
+    ],
+    "scienceBehind": "Gratitude practices increase dopamine and serotonin production, the brain's 'feel-good' neurotransmitters. Research published in Applied Psychology: Health and Well-Being found that participants who practiced gratitude before bed fell asleep faster and slept longer. The practice reduces pre-sleep worry by shifting attention from threat-focused to reward-focused mental content.",
+    "tips": [
+      "Focus on small, specific moments rather than large, general things (a kind smile, perfect coffee, sunset).",
+      "Include at least one item about your own actions or qualities to build self-compassion.",
+      "If the day was difficult, look for tiny bright spots — they're always there.",
+      "Write your three items in a journal beside your bed to track patterns and deepen the practice."
+    ],
+    "timeNeeded": "5-7 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Stress relief",
+      "Evening wind-down",
+      "Sleep quality"
+    ]
+  },
+  {
+    "id": "cognitive-shuffling",
+    "name": "Cognitive Shuffling (Random Word Imagery)",
+    "tagline": "Generate random mental images that keep your mind busy without stimulating worry",
+    "description": "Cognitive shuffling, developed by Canadian cognitive scientist Dr. Luc Beaudoin, involves thinking of random, unrelated images in rapid succession. You either visualize items starting with each letter of a word, or simply imagine random objects. The technique works by creating 'micro-dreams' that signal to your brain it's safe to enter sleep mode while preventing coherent thought patterns that lead to worry.",
+    "category": "mindfulness",
+    "icon": "Sparkles",
+    "steps": [
+      "Choose a neutral word with at least 5 letters and no emotional charge (like 'BEDTIME' or 'BLANKET').",
+      "Starting with the first letter (B), visualize as many items as you can that start with B (ball, banana, book, boat...).",
+      "Spend 3-5 seconds picturing each item clearly before moving to the next.",
+      "When you run out of B words, move to E words, then D words, continuing through the word.",
+      "If you finish the word, pick another random word and continue.",
+      "Let images become dreamlike and illogical — this signals approaching sleep."
+    ],
+    "scienceBehind": "The technique exploits the brain's incompatibility between serial diverse imagining and staying alert. By preventing the linear, logical thought patterns that maintain wakefulness, cognitive shuffling mimics the random image generation that occurs during sleep onset. Studies show it can reduce sleep onset latency by up to 50% compared to trying to clear the mind.",
+    "tips": [
+      "Don't repeat images or create narratives connecting them — randomness is key.",
+      "If you catch yourself thinking in sentences or solving problems, return to random images.",
+      "Visual vividness doesn't matter — even vague impressions of objects work.",
+      "Try the MySleepButton app, which was developed specifically for this technique."
+    ],
+    "timeNeeded": "10-15 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Calming racing thoughts",
+      "Night waking",
+      "Anxiety relief"
+    ]
+  },
+  {
+    "id": "scheduled-worry-time",
+    "name": "Scheduled Worry Time",
+    "tagline": "Contain anxious thoughts by scheduling a specific time to address them — just not at bedtime",
+    "description": "This cognitive behavioral technique involves setting aside 15-30 minutes earlier in the evening (at least 2 hours before bed) to deliberately worry, plan, and problem-solve. By giving worries their own designated time, you train your brain to 'save' concerns for that period rather than processing them when you're trying to sleep. When worries arise at bedtime, you acknowledge them and remind yourself you'll address them during tomorrow's worry time.",
+    "category": "mindfulness",
+    "icon": "Clock",
+    "steps": [
+      "Schedule 15-30 minutes in the early evening (5-8pm) as your daily 'worry time'.",
+      "During this time, sit with a notebook and write down everything that concerns you.",
+      "For each worry, note if it's actionable now, later, or not at all.",
+      "When bedtime worries arise, acknowledge them: 'That's a concern for tomorrow's worry time.'",
+      "Visualize placing each bedtime worry in a container to be opened during your next scheduled session.",
+      "Redirect attention to a sleep technique like breathing or body scanning."
+    ],
+    "scienceBehind": "This technique works through stimulus control — training your brain that bed is not the place for problem-solving. Research in cognitive behavioral therapy for insomnia (CBT-I) shows that scheduled worry time reduces both pre-sleep cognitive arousal and night waking. It leverages the psychological principle that acknowledging concerns without engaging them reduces their urgency and emotional intensity.",
+    "tips": [
+      "Be consistent with your worry time — same time and place each day builds the habit.",
+      "Set a timer so worry time doesn't expand beyond its scheduled limit.",
+      "During worry time, focus on action steps for solvable problems and acceptance for unsolvable ones.",
+      "If a truly urgent issue arises at bedtime, handle it briefly then return to your sleep routine."
+    ],
+    "timeNeeded": "2-3 minutes at bedtime (after establishing the practice)",
+    "bestFor": [
+      "Calming racing thoughts",
+      "Anxiety relief",
+      "Falling asleep",
+      "Night waking"
+    ]
+  },
+  {
+    "id": "non-sleep-deep-rest",
+    "name": "Non-Sleep Deep Rest (NSDR/Yoga Nidra)",
+    "tagline": "A guided meditation that takes you to the edge of sleep while maintaining awareness",
+    "description": "Non-Sleep Deep Rest (NSDR), also called Yoga Nidra, is a state of consciousness between waking and sleeping where the body is completely relaxed but the mind remains lightly aware. Unlike meditation focused on presence, NSDR deliberately guides you toward the hypnagogic state. This practice is particularly effective for people who feel tired but 'wired' and can't seem to turn their minds off.",
+    "category": "mindfulness",
+    "icon": "Moon",
+    "steps": [
+      "Lie in corpse pose (on your back, arms slightly away from body, palms up).",
+      "Follow a guided NSDR recording that leads you through body awareness and breath focus.",
+      "Notice the boundary between waking and sleeping, resting in that threshold state.",
+      "When the guide prompts visualization, imagine scenes with light detail but no emotional engagement.",
+      "If you fall fully asleep, that's fine — the practice has served its purpose.",
+      "If practiced without falling asleep, end by gradually reawakening body awareness and moving gently."
+    ],
+    "scienceBehind": "Brain imaging shows NSDR increases dopamine in the basal ganglia by up to 65%, promoting both relaxation and mental restoration. The practice enhances the brain's default mode network connectivity, which is associated with creative problem-solving and emotional processing. Research indicates NSDR can reduce sleep onset latency and improve subjective sleep quality even when practiced during the day.",
+    "tips": [
+      "Use a dedicated NSDR recording from teachers like Kamini Desai or protocols by Dr. Andrew Huberman.",
+      "Practice with a light blanket over you to prevent temperature drop during deep relaxation.",
+      "Set an intention at the start if you want to fall asleep vs. complete the practice.",
+      "Even 10-20 minutes of NSDR can provide restorative benefits equivalent to 1-2 hours of sleep."
+    ],
+    "timeNeeded": "20-30 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Sleep quality",
+      "Stress relief",
+      "Calming racing thoughts"
+    ]
+  },
+  {
+    "id": "ten-three-two-one-rule",
+    "name": "The 10-3-2-1 Sleep Rule",
+    "tagline": "A time-based framework that prepares your body and mind for sleep throughout the day",
+    "description": "The 10-3-2-1 rule is a behavioral framework that structures your day for optimal sleep. The guidelines are: no caffeine 10 hours before bed, no food or alcohol 3 hours before bed, no work or stressful activities 2 hours before bed, and no screens 1 hour before bed. By creating clear boundaries around sleep-disrupting activities, you create a runway for natural sleepiness to emerge.",
+    "category": "mindfulness",
+    "icon": "Clock",
+    "steps": [
+      "Calculate your target bedtime and work backwards to set your boundaries.",
+      "Set an alarm 10 hours before bed as your caffeine cutoff (if you sleep at 11pm, stop caffeine at 1pm).",
+      "Finish dinner and avoid alcohol 3 hours before bed to allow digestion.",
+      "Establish a 2-hour buffer before bed free from work emails, difficult conversations, or planning.",
+      "Turn off all screens (phone, TV, computer) 1 hour before bed and engage in calming activities.",
+      "Use the final hour for relaxation techniques like reading, stretching, or meditation."
+    ],
+    "scienceBehind": "Each time boundary addresses a specific sleep disruptor: caffeine has a 5-7 hour half-life, eating close to bedtime raises core temperature and disrupts circadian rhythms, cognitively stimulating activities increase cortisol, and blue light suppresses melatonin production. Research shows following these guidelines can reduce sleep onset latency by 15-30 minutes and improve sleep architecture.",
+    "tips": [
+      "Start with just the 1-hour screen rule if implementing all four feels overwhelming.",
+      "For the alcohol guideline: alcohol may help you fall asleep but fragments sleep later in the night.",
+      "During your screen-free hour, dim household lights to 30-50% to support melatonin production.",
+      "Adjust timing based on personal sensitivity — some people need a 12-hour caffeine cutoff."
+    ],
+    "timeNeeded": "Structure for entire day leading to bedtime",
+    "bestFor": [
+      "Evening wind-down",
+      "Sleep quality",
+      "Falling asleep",
+      "Morning freshness"
+    ]
+  },
+  {
+    "id": "paradoxical-intention",
+    "name": "Paradoxical Intention (Stay Awake Challenge)",
+    "tagline": "Reduce sleep anxiety by trying to stay awake rather than forcing yourself to fall asleep",
+    "description": "Paradoxical intention is a cognitive technique where you deliberately try to stay awake with your eyes closed, rather than trying to fall asleep. This counterintuitive approach reduces the performance anxiety around sleep ('I must fall asleep now!') that often keeps people awake. By removing the pressure to sleep, you remove one of the primary obstacles preventing it.",
+    "category": "mindfulness",
+    "icon": "Eye",
+    "steps": [
+      "Get into your normal sleep position with eyes closed and lights off.",
+      "Instead of trying to fall asleep, give yourself the challenge of staying awake.",
+      "Keep your eyes gently closed but try to maintain awareness without physical effort.",
+      "Notice any drowsiness that arises but don't give in to it — keep trying to stay awake.",
+      "Don't engage in stimulating thoughts; simply maintain passive awareness.",
+      "Let sleep happen naturally when your body can no longer maintain wakefulness."
+    ],
+    "scienceBehind": "This technique addresses performance anxiety, a major component of insomnia. When you stop trying to control sleep, you reduce the sympathetic nervous system activation that maintains arousal. Studies published in the journal Sleep show that paradoxical intention reduces sleep onset latency by an average of 20 minutes in people with psychophysiological insomnia. The technique works by interrupting the thought-arousal cycle.",
+    "tips": [
+      "Don't actively do anything to stay awake — no counting, moving, or opening eyes.",
+      "If you find this frustrating rather than relaxing, this technique may not suit you.",
+      "The goal is passive wakefulness, not active resistance to sleep.",
+      "This works best for people whose primary sleep obstacle is anxiety about falling asleep."
+    ],
+    "timeNeeded": "10-20 minutes",
+    "bestFor": [
+      "Falling asleep",
+      "Anxiety relief",
+      "Calming racing thoughts",
+      "Night waking"
+    ]
   }
 ]
