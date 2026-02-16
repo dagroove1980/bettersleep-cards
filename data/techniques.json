@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4-7-8-breathing-method",
+    "name": "The 4-7-8 Breathing Method",
+    "tagline": "A calming breath pattern that signals your nervous system to relax",
+    "description": "The 4-7-8 breathing technique was developed by Dr. Andrew Weil based on pranayama yoga breathing. It involves breathing in for 4 seconds, holding for 7 seconds, and exhaling for 8 seconds. This pattern acts as a natural tranquilizer for the nervous system.",
+    "category": "breathing",
+    "icon": "Wind",
+    "steps": [
+      "Sit or lie down in a comfortable position and close your eyes.",
+      "Exhale completely through your mouth, making a whooshing sound.",
+      "Close your mouth and inhale quietly through your nose for 4 seconds.",
+      "Hold your breath for 7 seconds.",
+      "Exhale completely through your mouth for 8 seconds with a whoosh.",
+      "Repeat the cycle 3-4 times."
+    ],
+    "scienceBehind": "The extended exhale activates your parasympathetic nervous system, lowering heart rate and blood pressure. The breath-hold increases CO2 in the blood, which has a mild sedative effect.",
+    "tips": [
+      "Practice twice daily for best results — it gets more effective over time.",
+      "If holding for 7 seconds is hard at first, maintain the 4:7:8 ratio at a shorter count.",
+      "Place the tip of your tongue against the ridge behind your upper front teeth throughout."
+    ],
+    "timeNeeded": "2-3 minutes",
+    "bestFor": ["Falling asleep", "Anxiety relief", "Calming racing thoughts"]
+  },
+  {
+    "id": "warm-bath-90-minutes-before-bed",
+    "name": "Warm Bath 90 Minutes Before Bed",
+    "tagline": "Use your body's natural cooling response to trigger sleepiness",
+    "description": "Taking a warm bath or shower about 90 minutes before bedtime raises your core body temperature. As your body cools down afterward, it mimics the natural temperature drop that occurs as you fall asleep, signaling to your brain that it's time for rest.",
+    "category": "routine",
+    "icon": "Droplets",
+    "steps": [
+      "Run a warm bath (104-109°F / 40-43°C) about 90 minutes before your target bedtime.",
+      "Soak for 10-20 minutes — no need to stay longer.",
+      "Optionally add Epsom salts or lavender essential oil for extra relaxation.",
+      "After the bath, dry off and let your body naturally cool down.",
+      "Put on lightweight, breathable sleepwear.",
+      "Get into bed as you start feeling drowsy from the cooling effect."
+    ],
+    "scienceBehind": "Research published in Sleep Medicine Reviews found that a warm bath 1-2 hours before bed can improve sleep onset latency by an average of 10 minutes. The rapid core body temperature drop after the bath mimics melatonin's thermoregulatory effect.",
+    "tips": [
+      "A warm shower works too if you don't have a bathtub.",
+      "Avoid very hot water — it should be comfortably warm, not scalding.",
+      "Dim the bathroom lights to avoid bright light exposure."
+    ],
+    "timeNeeded": "15-30 minutes",
+    "bestFor": ["Falling asleep faster", "Muscle relaxation", "Evening wind-down"]
+  }
+]
