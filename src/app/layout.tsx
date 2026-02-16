@@ -1,5 +1,7 @@
 import type { Metadata } from 'next';
 import { DM_Serif_Display, Inter } from 'next/font/google';
+import { Header } from '@/components/Header';
+import { Footer } from '@/components/Footer';
 import './globals.css';
 
 const dmSerifDisplay = DM_Serif_Display({
@@ -49,7 +51,11 @@ export default function RootLayout({
         />
       </head>
       <body className={`${dmSerifDisplay.variable} ${inter.variable} antialiased`}>
-        {children}
+        <Header />
+        <main className="min-h-screen">
+          {children}
+        </main>
+        <Footer />
       </body>
     </html>
   );
