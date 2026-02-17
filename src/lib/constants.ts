@@ -1,10 +1,10 @@
 import { Category } from '@/types/technique';
 
-export const SITE_NAME = 'Better Sleep Cards';
+export const SITE_NAME = 'ChillSleep';
 export const SITE_DESCRIPTION = 'Discover 50+ proven sleep techniques, habits, and methods to help you fall asleep faster and enjoy a peaceful, restful night.';
 export const SITE_URL = process.env.VERCEL_PROJECT_PRODUCTION_URL
   ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-  : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+  : process.env.NEXT_PUBLIC_SITE_URL || 'https://chill-sleep.com';
 
 export const ADSENSE_PUBLISHER_ID = 'ca-pub-3452665186406442';
 

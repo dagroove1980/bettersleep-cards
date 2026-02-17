@@ -12,7 +12,7 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 group">
           <Moon className="w-6 h-6 text-[var(--color-accent)]" />
-          <span className="font-bold text-lg">Better Sleep Cards</span>
+          <span className="font-bold text-lg"><span className="text-[var(--color-foreground)]">Chill</span><span className="text-[var(--color-accent)]">Sleep</span></span>
         </Link>
 
         <nav className="hidden md:flex items-center gap-6 text-sm">

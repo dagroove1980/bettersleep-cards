@@ -10,7 +10,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-3">
               <Moon className="w-5 h-5 text-[var(--color-accent)]" />
-              <span className="font-bold">Better Sleep Cards</span>
+              <span className="font-bold">ChillSleep</span>
             </div>
             <p className="text-sm text-[var(--color-secondary)]">
               Proven techniques to help you fall asleep and enjoy a quiet, restful night.
@@ -37,7 +37,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-[var(--color-border)] text-center text-xs text-[var(--color-secondary)]">
-          &copy; {new Date().getFullYear()} Better Sleep Cards. Sleep well tonight.
+          &copy; {new Date().getFullYear()} ChillSleep. Sleep well tonight.
         </div>
       </div>
     </footer>

@@ -19,18 +19,18 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Better Sleep Cards — Techniques for a Quiet Night',
-    template: '%s | Better Sleep Cards',
+    default: 'ChillSleep — Techniques for a Quiet Night',
+    template: '%s | ChillSleep',
   },
   description: 'Discover 50+ proven sleep techniques, habits, and methods to help you fall asleep faster and enjoy a peaceful, restful night.',
   metadataBase: new URL(
     process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'
+      : process.env.NEXT_PUBLIC_SITE_URL || 'https://chill-sleep.com'
   ),
   openGraph: {
     type: 'website',
-    siteName: 'Better Sleep Cards',
+    siteName: 'ChillSleep',
     locale: 'en_US',
   },
   twitter: { card: 'summary_large_image' },

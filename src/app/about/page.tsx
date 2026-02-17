@@ -5,7 +5,7 @@ import { CATEGORIES } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'About',
-  description: 'Better Sleep Cards helps you discover proven techniques, calming habits, and simple methods for a restful night.',
+  description: 'ChillSleep helps you discover proven techniques, calming habits, and simple methods for a restful night.',
 };
 
 export default function AboutPage() {
@@ -13,10 +13,10 @@ export default function AboutPage() {
 
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-      <h1 className="text-4xl font-bold tracking-tight mb-6">About Better Sleep Cards</h1>
+      <h1 className="text-4xl font-bold tracking-tight mb-6">About ChillSleep</h1>
       <div className="space-y-4 text-lg leading-relaxed text-[var(--color-secondary)]">
         <p>
-          We believe everyone deserves a good night&apos;s sleep. Better Sleep Cards is a curated collection of <strong className="text-[var(--color-foreground)]">{count} proven sleep techniques</strong> organized across {CATEGORIES.length} categories — from breathing exercises to environment optimization.
+          We believe everyone deserves a good night&apos;s sleep. ChillSleep is a curated collection of <strong className="text-[var(--color-foreground)]">{count} proven sleep techniques</strong> organized across {CATEGORIES.length} categories — from breathing exercises to environment optimization.
         </p>
         <p>
           Each technique includes step-by-step instructions, the science behind why it works, and practical tips to get the most out of it. Whether you struggle with falling asleep, staying asleep, or just want to improve your sleep quality, there&apos;s a technique here for you.

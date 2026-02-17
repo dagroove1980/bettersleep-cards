@@ -13,7 +13,7 @@ export default function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(collectionStructuredData(
-            'Better Sleep Cards',
+            'ChillSleep',
             SITE_DESCRIPTION,
             '/'
           )),

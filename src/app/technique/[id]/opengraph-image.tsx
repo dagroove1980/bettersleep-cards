@@ -17,7 +17,7 @@ export default async function OGImage({ params }: { params: Promise<{ id: string
   if (!technique) {
     return new ImageResponse(
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', backgroundColor: '#F8F6F3', fontSize: 48, fontWeight: 700 }}>
-        Better Sleep Cards
+        ChillSleep
       </div>,
       size
     );
@@ -46,7 +46,7 @@ export default async function OGImage({ params }: { params: Promise<{ id: string
       </div>
       <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
         <div style={{ width: 36, height: 36, borderRadius: '50%', backgroundColor: '#6366F1' }} />
-        <div style={{ fontSize: 24, fontWeight: 600, color: '#1C1917' }}>bettersleep.cards</div>
+        <div style={{ fontSize: 24, fontWeight: 600, color: '#1C1917' }}>chill-sleep.com</div>
       </div>
     </div>,
     size
